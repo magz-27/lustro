@@ -1,22 +1,19 @@
-		{"anytime": [
-			"Heeej!"
-		],
-		"morning": [
+{
+  "anytime": ["Heeej!"],
+  "morning": [
 			"Dzień Dobry, pięknosci!",
 			"Miłego dnia!",
 			"Jak się spało?"
-		],
-		"afternoon": [
+  ],
+  "afternoon": [
 			"Witaj, piękno",
 			"Świetnie wyglądasz!",
 			"Wspaniale się prezentujesz!"
-		],
-		"evening": [
+  ],
+  "evening": [
 			"Wow, wyglądasz gorrąco!",
 			"Wow, ale sztuka!",
 			"Hej, sexy!"
-		],
-		"....-01-01": [
-			"Szczęśliwego Nowego Roku!"
-		] 
-		}
+  ]
+}
+
