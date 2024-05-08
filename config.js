@@ -49,15 +49,8 @@ let config = {
 			module: "calendar",
 			header: "Święta",
 			position: "top_left",
-			config: {
-				calendars: [
-					{
-						fetchInterval: 7 * 24 * 60 * 60 * 1000,
-						symbol: "calendar-check",
-						url: "https://ics.calendarlabs.com/76/mm3137/PL_Holidays.ics"
-					}
-				]
-			}
+						customEvents: [{keyword: 'Urodziny Kazia', symbol: 'birthday-cake', color: 'Gold'}]
+			
 		},
 		{
 			module: "compliments",
@@ -75,7 +68,7 @@ let config = {
      
       apiBase: 'https://api.openweathermap.org/data/',
       apiKey: "5f672c504517372715bd511f98b6721d",
-	  location: "Krzykawa, Poland",
+	  location: "Olkusz, Poland",
       colored: "true",
       type: "current",
       showUVIndex: "true",
