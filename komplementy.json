@@ -1,17 +1,15 @@
 {
-  "anytime": ["Heeej!", "😍😍😍"],
+  "anytime": ["Heeej!"],
   "morning": [
 			"Dzień Dobry, pięknosci!",
 			"Miłego dnia!",
-			"Jak się spało?",
-	  		"😍😍😍"
+			"Jak się spało?"
   ],
   "afternoon": [
 			"Witaj, piękno",
 			"Świetnie wyglądasz!",
 			"Wspaniale się prezentujesz!",
-	  		"Masz przepiękne oczy",
-	  		"😊😊😊"
+	  		"Masz przepiękne oczy"
   ],
   "evening": [
 			"Wow, wyglądasz gorrąco!",
