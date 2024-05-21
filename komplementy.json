@@ -3,19 +3,16 @@
   "morning": [
 			"Dzień Dobry, pięknosci!",
 			"Miłego dnia!",
-			"Jak się spało?",
+			"Jak się spało?"
   ],
   "afternoon": [
 			"Witaj, piękno",
 			"Świetnie wyglądasz!",
-			"Wspaniale się prezentujesz!",
-	  		"Masz przepiękne oczy",
+			"Wspaniale się prezentujesz!"
   ],
   "evening": [
 			"Wow, wyglądasz gorrąco!",
 			"Wow, ale sztuka!",
-			"Hej, sexy!",
-	  		"Wyglądając tak, możesz wszystko!",
-  ],
+			"Hej, sexy!"
+  ]
 }
-
